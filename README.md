@@ -6,7 +6,7 @@ Synthetic Data Generator is a program which generates a synthetic video of a giv
 
 ## Sample output
 
-https://github.com/jungj0925/Synthetic-Data-Generator/assets/86926925/2c68dca7-cf23-4b7c-8061-73768e4c2686
+https://github.com/jungj0925/Synthetic-Data-Generator/assets/86926925/840cc375-c796-4cae-9aa8-e5cd0b2f7492
 
 ## Relighting
 
